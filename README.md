@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Visualization
 - 🌱 I’m currently learning EDA and Feature Engineering
 - 💞️ I’m looking to collaborate on various real world problems
-- 📫 You can contact me on LinkedIn- karan-yadav-9a1172191
+- 📫 You can contact me on LinkedIn- www.linkedin.com/in/karanyadav02398
 
 <!---
 karan02398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
