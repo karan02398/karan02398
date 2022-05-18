@@ -5,6 +5,6 @@
 - 📫 You can contact me on LinkedIn- karan-yadav-9a1172191
 
 <!---
-karan02398/karan02398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+karan02398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
